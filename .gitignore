@@ -6,7 +6,7 @@
 *.la
 *.lai
 *.so
-*.dll
+#*.dll to upload ssl dlls
 *.dylib
 
 # Qt-es
